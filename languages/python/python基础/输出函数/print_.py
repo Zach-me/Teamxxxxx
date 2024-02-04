@@ -16,3 +16,6 @@ fp.close()
 
 # 不进行换行输出（输出内容再一行当中）
 print('hello', 'world', 'Python')
+
+# 在同一行显示多条语句
+import sys; x = 'test'; sys.stdout.write(x + '\n')

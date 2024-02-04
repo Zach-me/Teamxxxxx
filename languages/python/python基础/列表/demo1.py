@@ -25,6 +25,7 @@ print(1 in list1)
 # 添加
 # arr.append(100)
 # arr.extend(1)
+# arr.insert(2,10)
 # print(arr)
 
 
